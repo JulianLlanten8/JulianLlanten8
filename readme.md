@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , soy Hugo Julian</h1>
-<h3 align="center">Un apasionado desarrollador frontend de Colombia</h3>
+<h3 align="center">Un apasionado desarrollador frontend & backend de (☞ﾟヮﾟ)☞ Colombia ☕</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=julianllanten8&label=Profile%20views&color=0e75b6&style=flat" alt="julianllanten8" />
@@ -29,7 +29,7 @@
 
 - 📫 Cómo contactarme **hugojulians@gmail.com**
 
-- 📄 Conocer mis experiencias [Tecnólogo en análisis, diseño y desarrollo de sistemas de información. Conocimiento en las áreas involucradas en la programación, desde el análisis de los requisitos del software, sus respectivos requisitos de roles de equipo, sus respectivos roles de equipo, trabajando con marcos como Scrum Scrum; diseño de interfaz con aplicaciones (Adobe XD, Figma) y desarrollo tanto frontend como backend con frontend y backend con lenguajes de programación como Mysql, PHP, JavaScript, Java y frameworks para agilizar el proceso como Laravel, Vue.js, Bootstrap, Vuetify y gestión de librerías para un rápido desarrollo.] (Tecnólogo en análisis, diseño y desarrollo de sistemas de información. Conocimiento en las áreas involucradas en la programación, desde el análisis de los requisitos del software, sus respectivos requisitos de roles de equipo, sus respectivos roles de equipo, trabajando con marcos como Scrum Scrum; diseño de interfaz con aplicaciones (Adobe XD, Figma) y desarrollo tanto frontend como backend con frontend y backend con lenguajes de programación como Mysql, PHP, JavaScript, Java y frameworks para agilizar el proceso como Laravel, Vue.js, Bootstrap, Vuetify y gestión de librerías para un rápido desarrollo.)
+- 📄 **Conoce de mis experiencias y sobre mi** Soy Tecnólogo en análisis, diseño y desarrollo de sistemas de información. Con conocimiento en las áreas involucradas en la programación, desde el análisis de los requisitos del software, sus respectivos requisitos de roles de equipo, sus respectivos roles de equipo, trabajando con marcos como Scrum Scrum; diseño de interfaz con aplicaciones (Adobe XD, Figma) y desarrollo tanto frontend como backend con frontend y backend con lenguajes de programación como Mysql, PHP, JavaScript, Java y frameworks para agilizar el proceso como Laravel, Vue.js, Bootstrap, Vuetify y gestión de librerías para un rápido desarrollo.] (Tecnólogo en análisis, diseño y desarrollo de sistemas de información. Conocimiento en las áreas involucradas en la programación, desde el análisis de los requisitos del software, sus respectivos requisitos de roles de equipo, sus respectivos roles de equipo, trabajando con marcos como Scrum Scrum; diseño de interfaz con aplicaciones (Adobe XD, Figma) y desarrollo tanto frontend como backend con frontend y backend con lenguajes de programación como Mysql, PHP, JavaScript, Java y frameworks para agilizar el proceso como Laravel, Vue.js, Bootstrap, Vuetify y gestión de librerías para un rápido desarrollo.)
 
 <h3 align="left">Conéctate conmigo:</h3>
 
