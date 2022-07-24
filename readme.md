@@ -7,20 +7,23 @@
 
 [![JulianLlanten8 GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianLlanten8&show_icons=true&theme=onedark&locale=es)](https://github.com/JulianLlanten8/github-readme-stats)
 
+
 ### Algunos de mis proyectos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=https-github-com-JLlanten8&repo=rick-and-morty&theme=onedark&locale=es)](https://github.com/https-github-com-JLlanten8/rick-and-morty)
 
 
 ### Lenguajes y herramientas...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianLlanten8&langs_count=8&theme=onedark&locale=es)](https://github.com/JulianLlanten8)
+<a style="margin-left: 10rem;" href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="300" alt="Julian Llanten's Dev Card"/></a>
 
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=julianllanten8&theme=onedark" alt="julianllanten8"/>
   </a>
-  <a href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="400" alt="Julian Llanten's Dev Card"/></a>
 </p>
+
+<a href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="400" alt="Julian Llanten's Dev Card"/></a>
 
 - 🔭 Actualmente estoy trabajando en [rick&morty](https://github.com/https-github-com-JLlanten8/rick-and-morty)
 
