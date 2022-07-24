@@ -19,6 +19,7 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=julianllanten8&theme=onedark" alt="julianllanten8"/>
   </a>
+  <a href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="400" alt="Julian Llanten's Dev Card"/></a>
 </p>
 
 - 🔭 Actualmente estoy trabajando en [rick&morty](https://github.com/https-github-com-JLlanten8/rick-and-morty)
