@@ -25,7 +25,7 @@
 
 <a href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="400" alt="Julian Llanten's Dev Card"/></a>
 
-- 🔭 Actualmente estoy trabajando en [rick&morty](https://github.com/https-github-com-JLlanten8/rick-and-morty)
+- 🔭 Actualmente estoy trabajando en [unico](https://unico.com.co)
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript, Node.js**
 
