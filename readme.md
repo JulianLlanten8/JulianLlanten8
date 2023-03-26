@@ -23,8 +23,6 @@
   </a>
 </p>
 
-<a href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="400" alt="Julian Llanten's Dev Card"/></a>
-
 - 🔭 Actualmente estoy trabajando en [unico](https://unico.com.co)
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript, Node.js**
@@ -34,6 +32,7 @@
 - 📫 Cómo contactarme **hugojulians@gmail.com**
 
 - 📄 **Conoce de mis experiencias y sobre mi**: Soy Tecnólogo en análisis, diseño y desarrollo de sistemas de información. Con experiencia en las áreas involucradas en la programación, desde el análisis de los requisitos del software, metodologias agiles de para la creacion de software, sus respectivos roles de equipo, trabajando con marcos como Scrum; diseño de interfaz  ui con aplicaciones (Adobe XD, Figma) y posterior desarrollo tanto frontend como backend con lenguajes de programación como sql, PHP, JavaScript, Java y frameworks para agilizar el proceso como Laravel, Vue.js, Nuxt, Bootstrap, Vuetify y gestión de librerías para un rápido desarrollo.
+- 👩‍💻 **me considero experto en**: el desarrollo de nuevas herramientas, tecnologías y plataformas que permitan a las empresas mejorar sus procesos y ofrecer nuevos productos y servicios. Estoy comprometido con el uso de la tecnología para mejorar la productividad, la eficiencia, la seguridad, la calidad de servicio y la satisfacción de los clientes, herramientas y plataformas para mejorar la experiencia de los usuarios. Estoy comprometido con el uso de la tecnología para mejorar la seguridad de los datos de los usuarios y para mejorar la experiencia de usuario. así como mejorar el uso de la tecnología para hacer que la vida sea más fácil y práctica.
 
 <h3 align="left">Conéctate conmigo:</h3>
 
