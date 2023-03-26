@@ -5,8 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=julianllanten8&label=Profile%20views&color=0e75b6&style=flat" alt="julianllanten8" />
 </p>
 
-[![JulianLlanten8 GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianLlanten8&show_icons=true&theme=onedark&locale=es)](https://github.com/JulianLlanten8/github-readme-stats)
+<img src="https://64.media.tumblr.com/75afa8499b6b2df853ba3b8b47881ac5/tumblr_n848nwJCgn1tqptlzo2_500.gifv" height="200" width="300">
 
+[![JulianLlanten8 GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianLlanten8&show_icons=true&theme=onedark&locale=es)](https://github.com/JulianLlanten8/github-readme-stats)
 
 ### Algunos de mis proyectos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=https-github-com-JLlanten8&repo=rick-and-morty&theme=onedark&locale=es)](https://github.com/https-github-com-JLlanten8/rick-and-morty)
