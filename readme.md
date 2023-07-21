@@ -54,7 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"   width="60" height="50"/></a>
     
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="figma" width="60" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="60" height="50"/>
   </a> 
   
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
