@@ -97,6 +97,10 @@
     <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="vuejs" width="60" height="50"/>
   </a>
 
+  <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="vuejs" width="60" height="50"/>
+  </a>
+
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"   alt="bootstrap" width="60" height="50"/>
   </a>
