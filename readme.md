@@ -12,6 +12,8 @@
 ### Algunos de mis proyectos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=https-github-com-JLlanten8&repo=rick-and-morty&theme=onedark&locale=es)](https://github.com/https-github-com-JLlanten8/rick-and-morty)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JulianLlanten8&repo=RoadMapReact&theme=onedark&locale=es)](https://github.com/JulianLlanten8/RoadMapReact)
+
 
 ### Lenguajes y herramientas...
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianLlanten8&exclude_repo=frontendLibros&hide=less,scss&langs_count=8&theme=onedark&locale=es)](https://github.com/JulianLlanten8)
