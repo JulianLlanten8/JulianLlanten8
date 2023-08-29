@@ -27,7 +27,7 @@
   </a>
 </p>
 
-- 🔭 Actualmente estoy trabajando en [unico](https://unico.com.co)
+- 🔭 Actualmente estoy trabajando como freelancer.
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript, Node.js**
 
