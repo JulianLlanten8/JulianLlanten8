@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado desarrollador frontend & backend de (☞ﾟヮﾟ)☞ Colombia ☕</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=julianllanten8&label=Profile%20views&color=0e75b6&style=flat" alt="julianllanten8" />
+  <img src="https://komarev.com/ghpvc/?username=julianllanten8&label=Profile%20views&color=blueviolet&style=flat" alt="julianllanten8" />
 </p>
 
 <img src="https://64.media.tumblr.com/75afa8499b6b2df853ba3b8b47881ac5/tumblr_n848nwJCgn1tqptlzo2_500.gifv" height="200" width="300">
