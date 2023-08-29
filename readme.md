@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=julianllanten8&label=Profile%20views&color=blueviolet&style=flat" alt="julianllanten8" />
 </p>
 
+
 <img src="https://64.media.tumblr.com/75afa8499b6b2df853ba3b8b47881ac5/tumblr_n848nwJCgn1tqptlzo2_500.gifv" height="200" width="300">
 
 [![JulianLlanten8 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JulianLlanten8&show_icons=true&theme=onedark&locale=es)](https://github.com/JulianLlanten8/github-readme-stats)
@@ -135,3 +136,5 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="50"/>
   </a>
 </p>
+
+![](https://hit.yhype.me/github/profile?user_id=69773503)
