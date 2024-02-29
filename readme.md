@@ -29,7 +29,7 @@
 
 - 🔭 Actualmente estoy trabajando como freelancer.
 
-- 🌱 Actualmente estoy aprendiendo **TypeScript, Node.js**
+- 🌱 Actualmente estoy aprendiendo **Astro, Node.js**
 
 - 💬 Pregúntame sobre **Vue, JavaScript, Api-Rest**
 
