@@ -73,11 +73,11 @@
   </a> 
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" alt="php" width="60" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="60" height="50"/> 
   </a> 
   
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="60" height="50"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="60" height="50"/> 
   </a> 
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -97,11 +97,11 @@
   </a>
   
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="vuejs" width="60" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="vuetifyjs" width="60" height="50"/>
   </a>
 
   <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="vuejs" width="60" height="50"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="60" height="50"/>
   </a>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
