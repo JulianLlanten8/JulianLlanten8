@@ -31,7 +31,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Astro, Node.js**
 
-- 💬 Pregúntame sobre **Vue, JavaScript, Api-Rest**
+- 💬 Pregúntame sobre **Vue, JavaScript,Laravel,Api-Rest**
 
 - 📫 Cómo contactarme **hugojulians@gmail.com**
 
