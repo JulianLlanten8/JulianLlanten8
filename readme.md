@@ -17,7 +17,7 @@
 
 
 ### Lenguajes y herramientas...
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianLlanten8&exclude_repo=frontendLibros,copag&hide=less&langs_count=8&theme=onedark&locale=es)](https://github.com/JulianLlanten8)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianLlanten8&exclude_repo=frontendLibros,COPAG&hide=less&langs_count=8&theme=onedark&locale=es)](https://github.com/JulianLlanten8)
 <a style="margin-left: 10rem;" href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="300" alt="Julian Llanten's Dev Card"/></a>
 
 
