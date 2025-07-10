@@ -50,38 +50,38 @@
 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="xd" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="xd" width="60" height="50"/>
   </a>
 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"   width="60" height="50"/></a>
+    <img src="https://skillicons.dev/icons?i=css" alt="css3"   width="60" height="50"/></a>
     
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/figma-5.svg" alt="figma" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="60" height="50"/>
   </a> 
   
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="60" height="50"/>
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=" noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="50"/> 
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="60" height="50"/> 
   </a> 
 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="50"/> 
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="50"/> 
   </a> 
   
   <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="60" height="50"/> 
+    <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="50"/> 
   </a> 
   
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="60" height="50"/> 
+    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="60" height="50"/> 
   </a> 
   
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="50"/>
   </a>
 
   <a href="https://mariadb.org/" target="_ blank" rel="noreferrer"> 
@@ -89,23 +89,23 @@
   </a>
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" >
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="60" height="50"/>
   </a>
   
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="60" height="50"/>
   </a>
   
   <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="vuetifyjs" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetifyjs" width="60" height="50"/>
   </a>
 
   <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="reactjs" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=react-2" alt="reactjs" width="60" height="50"/>
   </a>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"   alt="bootstrap" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap"   alt="bootstrap" width="60" height="50"/>
   </a>
   
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
