@@ -16,10 +16,10 @@
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulianLlanten8&repo=RoadMapReact&theme=onedark&locale=es)](https://github.com/JulianLlanten8/RoadMapReact)
 
 
-### Lenguajes y herramientas...
+### Lenguajes y Herramientas
+
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JulianLlanten8&exclude_repo=frontendLibros,COPAG&hide=less&langs_count=8&theme=onedark&locale=es)](https://github.com/JulianLlanten8)
 <a style="margin-left: 10rem;" href="https://app.daily.dev/Julianllanten8"><img src="https://api.daily.dev/devcards/e8ffd72fa4b943ba8ee46e2d9d03f600.png?r=nxg" width="300" alt="Julian Llanten's Dev Card"/></a>
-
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -28,17 +28,51 @@
 </p>
 
 - 🔭 Actualmente estoy trabajando como freelancer.
-
 - 🌱 Actualmente estoy aprendiendo **Astro, Node.js**
-
-- 💬 Pregúntame sobre **Vue, JavaScript,Laravel,Api-Rest**
-
+- 💬 Pregúntame sobre **Vue, JavaScript, Laravel, API REST**
 - 📫 Cómo contactarme **hugojulians@gmail.com**
 
-- 📄 **Conoce de mis experiencias y sobre mi**: Tecnólogo en análisis, diseño y desarrollo de sistemas de información. Con experiencia en las áreas involucradas en la programación, desde el análisis de los requisitos del software, metodologias agiles de para la creacion de software, sus respectivos roles de equipo, trabajando con marcos como Scrum; diseño de interfaz  ui con aplicaciones (Adobe XD, Figma) y posterior desarrollo tanto frontend como backend con lenguajes de programación como sql, PHP, JavaScript, Java y frameworks para agilizar el proceso como Laravel, Vue.js, Nuxt, Bootstrap, Vuetify y gestión de librerías para un rápido desarrollo.
-- 👨‍💻 **Me considero experto en**: el desarrollo de nuevas herramientas, tecnologías y plataformas que permitan a las empresas mejorar sus procesos y ofrecer nuevos productos y servicios. Estoy comprometido con el uso de la tecnología para mejorar la productividad, la eficiencia, la seguridad, la calidad de servicio y la satisfacción de los clientes, herramientas y plataformas para mejorar la experiencia de los usuarios.
+- 📄 **Sobre mí**: Tecnólogo en análisis, diseño y desarrollo de sistemas de información. Manejo metodologías ágiles (Scrum), diseño UI/UX con Figma y Adobe XD, y desarrollo completo de software frontend y backend usando tecnologías modernas como Vue.js, Laravel, Node.js y bases de datos SQL/NoSQL.
 
-<h3 align="left">Conéctate conmigo:</h3>
+---
+
+### 🚀 Mis Habilidades Técnicas
+
+#### 🖥️ Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,vuejs,react,html,css,sass,tailwind,bootstrap,vuetify" width="60%" />
+</p>
+
+#### 🌐 Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql,postgresql" width="40%" />
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="50px"/>
+  </a>
+</p>
+
+#### ⚙️ DevOps / Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,aws,docker,githubactions" width="20%" />
+</p>
+
+#### 🎨 Diseño UI/UX
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop" width="18%" />
+</p>
+
+#### 🔨 Testing
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,vitest" width="10%" />
+</p>
+
+
+### 📡 Conéctate conmigo
 
 <p align="left">
   <a href="https://dev.to/https://dev.to/julianllanten8" target="blank">
@@ -46,95 +80,6 @@
   </a>
 </p>
 
-<h3 align="left">Lenguajes & Herraminetas:</h3>
-
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="xd" width="60" height="50"/>
-  </a>
-
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3"   width="60" height="50"/></a>
-    
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="60" height="50"/>
-  </a> 
-  
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=xd" alt="xd" width="60" height="50"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=" noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="60" height="50"/> 
-  </a> 
-
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="60" height="50"/> 
-  </a> 
-  
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" alt="php" width="60" height="50"/> 
-  </a> 
-  
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="60" height="50"/> 
-  </a> 
-  
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="60" height="50"/>
-  </a>
-
-  <a href="https://mariadb.org/" target="_ blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="60" height="50"/> 
-  </a>
-  
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" >
-    <img src="https://skillicons.dev/icons?i=postgresql" alt="postgresql" width="60" height="50"/>
-  </a>
-  
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vuejs" alt="vuejs" width="60" height="50"/>
-  </a>
-  
-  <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vuetify" alt="vuetifyjs" width="60" height="50"/>
-  </a>
-
-  <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="60" height="50"/>
-  </a>
-
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap"   alt="bootstrap" width="60" height="50"/>
-  </a>
-  
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="60" height="50"/>
-  </a>
-  
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg" alt="aws" width="60" height="50"/>
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="50"/>
-  </a>
-  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="50"/>
-  </a>
-  
-  <a href="https://www.photoshop.com/en" target="_blank" rel=" noreferrer">
-    <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="60" height="50"/>
-  </a>
-
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pug" alt="pug" width="60" height="50"/>
-  </a>
-  
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="60" height="50"/>
-  </a>
-</p>
+---
 
 ![](https://hit.yhype.me/github/profile?user_id=69773503)
