@@ -101,7 +101,7 @@
   </a>
 
   <a href="https://legacy.reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react-2" alt="reactjs" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=react" alt="reactjs" width="60" height="50"/>
   </a>
 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
@@ -117,23 +117,23 @@
   </a>
 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=git" alt="git" width="60" height="50"/>
   </a>
   
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="60" height="50"/>
   </a>
   
   <a href="https://www.photoshop.com/en" target="_blank" rel=" noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="60" height="50"/>
   </a>
 
   <a href="https://pugjs.org" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=pug" alt="pug" width="60" height="50"/>
   </a>
   
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="60" height="50"/>
+    <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="60" height="50"/>
   </a>
 </p>
 
