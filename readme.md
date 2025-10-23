@@ -11,9 +11,10 @@
 [![JulianLlanten8 GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=JulianLlanten8&show_icons=true&theme=onedark&locale=es)](https://github.com/JulianLlanten8/github-readme-stats)
 
 ### Algunos de mis proyectos:
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=https-github-com-JLlanten8&repo=rick-and-morty&theme=onedark&locale=es)](https://github.com/https-github-com-JLlanten8/rick-and-morty)
 
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JulianLlanten8&repo=RoadMapReact&theme=onedark&locale=es)](https://github.com/JulianLlanten8/RoadMapReact)
+
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=https-github-com-JLlanten8&repo=rick-and-morty&theme=onedark&locale=es)](https://github.com/https-github-com-JLlanten8/rick-and-morty)
 
 
 ### Lenguajes y Herramientas
